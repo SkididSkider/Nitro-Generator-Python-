@@ -1,0 +1,6 @@
+Do this manualy cuz idk how to use batch
+
+Search in the search bar for "cmd" press enter then type in the command prompt
+pip install json
+pip install pyperclip
+pip install http.client
