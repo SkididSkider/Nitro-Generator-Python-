@@ -8,3 +8,4 @@ This just generates one link with nitro, instead of token
 
 https://github.com/SkididSkider/Nitro-Generator-Python-/assets/130796241/4259f391-a0e1-42b7-89d9-913d5756cc7c
 
+DON'T ABUSE TOO MUCH OR IT WILL NOT WORK!!!
